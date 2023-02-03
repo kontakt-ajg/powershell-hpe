@@ -1,0 +1,2 @@
+﻿enabled,name,size,dedupe_thin,perf_pol,multi_init,init_group
+1,myVolume1,102400,1,VMware ESX 5,1,myInitiatorGroup1

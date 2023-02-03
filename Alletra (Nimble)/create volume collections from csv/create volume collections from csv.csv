@@ -1,0 +1,2 @@
+﻿enabled,volcoll_name,vol_name,schedule_name,schedule_interval,schedule_days,schedule_time,max_snapshots
+1,myVolCol,myVol,mySchedule,days,"sunday,monday,tuesday,wednesday,thursday,friday,saturday",72000,31
